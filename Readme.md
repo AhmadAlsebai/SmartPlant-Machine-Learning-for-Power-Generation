@@ -126,7 +126,7 @@ Feel free to contribute by improving the model, optimizing performance, or addin
 
 MIT License. See LICENSE for details.
 
-🚀 Developed by Your Name | Contact: your.email@example.com
+
 
 
 The dataset consists of 9,568 rows and 5 columns (4 features + target variable PE).
